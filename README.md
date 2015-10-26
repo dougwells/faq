@@ -1,0 +1,2 @@
+# faq
+simple faq app
